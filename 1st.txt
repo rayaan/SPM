@@ -1,1 +1,2 @@
 This is my first try in GIt.
+I am trying to learn the basics.
